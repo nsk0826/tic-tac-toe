@@ -72,7 +72,7 @@ class Board extends React.Component {
       }
       squares[i]  = this.state.xIsNext ? 'X' : 'O';
       this.setState({
-        history: history.const([
+        history: history.concat([
           {
             squares: squares,
           }
