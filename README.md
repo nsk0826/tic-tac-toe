@@ -70,4 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## 参考サイト
-https://ja.reactjs.org/tutorial/tutorial.html#lifting-state-up-again
+https://ja.reactjs.org/tutorial/tutorial.html
+
