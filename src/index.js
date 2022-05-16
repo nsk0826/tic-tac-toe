@@ -27,7 +27,6 @@ class Board extends React.Component {
     this.setState({ squares: squares });
   }
 
-
   render() {
     return (
       <div>
